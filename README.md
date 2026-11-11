@@ -2,7 +2,7 @@
 
 Pick a goal ("Learn Kubernetes in 4 weeks"), get a daily plan with lessons, quizzes, topic illustrations and a coding sandbox — and an anime tutor who adapts when you get stuck.
 
-**Live app: (deployment URL to be added)**
+**Live app: https://ai-anime-tutor.vercel.app/**
 
 ## Meet Aiko Sensei
 
